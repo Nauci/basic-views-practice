@@ -1,7 +1,7 @@
 In this practice project, we will be practicing with labels, buttons, and layouts. There will be three screens total.
 
 Screen 1 - Rainbow
-Mock: https://zpl.io/awn9J87
+Mock: https://projects.invisionapp.com/d/main#/console/14730748/306707263/preview
 
 In this screen, you will be creating 6 labels that say "Red", "Orange", etc.
 They will have the colors corresponding to their text.
@@ -10,8 +10,7 @@ You will need to manually create the views and add them as subviews to self.view
 
 
 Screen 2 - Counter
-Mock: https://zpl.io/aRovxZr
-
+Mock: https://projects.invisionapp.com/d/main#/console/14730748/306707259/preview
 On this creen, you will be creating a basic counter app.
 - Inside BViewController.xib, create one label and two buttons.
 - Create outlets for the labels and buttons.
@@ -26,7 +25,7 @@ On this creen, you will be creating a basic counter app.
 
 
 Screen 3 - Move
-Mock: https://zpl.io/2jke5z4
+Mock: https://projects.invisionapp.com/d/main#/console/14730748/306707261/preview
 
 In this screen, you will be building an interactive box.
 - Inside CViewController.xib, Create a view and four buttons.
